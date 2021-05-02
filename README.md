@@ -1,2 +1,2 @@
-# go-tuya
-TUYA access lib
+# TUYA access lib
+
